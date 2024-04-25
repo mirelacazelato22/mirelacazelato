@@ -1,6 +1,6 @@
 ## Olá, meu nome é Mirela 😊
-Atualmente eu sou graduanda em  Engenharia de software.
-Tenho conhecimentos em JavaScript, C#, CSS, Dynamics 365, SQL e .NET
+Atualmente eu sou graduanda em  Segurança da Informação.
+Tenho conhecimentos em JavaScript, C#, Microsoft Dynamics 365, SQL e .NET
 
 
 
